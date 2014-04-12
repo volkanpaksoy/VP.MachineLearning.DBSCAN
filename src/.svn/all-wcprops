@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/DataMining/!svn/ver/14/DBSCAN/trunk/src
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/DataMining/!svn/ver/17/DBSCAN/trunk/src/Logger.java
+END
+ApplicationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DataMining/!svn/ver/13/DBSCAN/trunk/src/ApplicationException.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DataMining/!svn/ver/13/DBSCAN/trunk/src/Database.java
+END
+DBSCAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/DataMining/!svn/ver/17/DBSCAN/trunk/src/DBSCAN.java
+END
+ClusterObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/DataMining/!svn/ver/17/DBSCAN/trunk/src/ClusterObject.java
+END
+LogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DataMining/!svn/ver/17/DBSCAN/trunk/src/LogListener.java
+END
+EuclidianDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DataMining/!svn/ver/17/DBSCAN/trunk/src/EuclidianDistance.java
+END
+DBSCANApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DataMining/!svn/ver/17/DBSCAN/trunk/src/DBSCANApp.java
+END
+DistanceMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DataMining/!svn/ver/17/DBSCAN/trunk/src/DistanceMatrix.java
+END
+InputData.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DataMining/!svn/ver/17/DBSCAN/trunk/src/InputData.java
+END
+TextFileDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DataMining/!svn/ver/14/DBSCAN/trunk/src/TextFileDatabase.java
+END
+ConsoleLogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DataMining/!svn/ver/17/DBSCAN/trunk/src/ConsoleLogListener.java
+END
